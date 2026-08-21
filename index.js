@@ -20,8 +20,6 @@ const app = new App({
   socketMode: true
 });
 
-const PORT = process.env.PORT || 3000;
-
 // ============================================================
 // SIMPLE PERSISTENT DATABASE
 // ============================================================
